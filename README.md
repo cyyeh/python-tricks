@@ -27,7 +27,7 @@
     - [ ] 4.8 Instance, Class, and Static Methods Demystified
 - Ch5. Common Data Structures in Python
     - [x] 5.1 Dictionaries, Maps, and Hashtables
-    - [ ] 5.2 Array Data Structures
+    - [x] 5.2 Array Data Structures
     - [ ] 5.3 Records, Structs, and Data Transfer Objects
     - [ ] 5.4 Set and Multisets
     - [ ] 5.5 Stacks (LIFOs)
