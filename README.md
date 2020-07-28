@@ -26,7 +26,7 @@
     - [ ] 4.7 Class vs Instance Variable Pitfalls
     - [ ] 4.8 Instance, Class, and Static Methods Demystified
 - Ch5. Common Data Structures in Python
-    - [ ] 5.1 Dictionaries, Maps, and Hashtables
+    - [x] 5.1 Dictionaries, Maps, and Hashtables
     - [ ] 5.2 Array Data Structures
     - [ ] 5.3 Records, Structs, and Data Transfer Objects
     - [ ] 5.4 Set and Multisets
