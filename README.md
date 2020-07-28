@@ -17,7 +17,7 @@
     - [x] 3.5 Function Argument Unpacking
     - [x] 3.6 Nothing to Return Here
 - Ch4. Classes & OOP
-    - [ ] 4.1 Object Comparisons: is vs ==
+    - [x] 4.1 Object Comparisons: is vs ==
     - [ ] 4.2 String Conversion (Every Class Needs a __repr__)
     - [ ] 4.3 Defining Your Own Exception Classes
     - [ ] 4.4 Cloning Objects for Fun and Profit
