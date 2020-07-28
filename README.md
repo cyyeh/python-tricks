@@ -2,12 +2,57 @@
 
 ## Table of Contents
 
-- Patterns for Cleaner Python
-- Effective Functions
-- Classes & OOP
-- Common Data Structures in Python
-- Looping & Iteration
-- Dictionary Tricks
-- Pythonic Productivity Techniques
-- Closing Thoughts
+- Ch2. Patterns for Cleaner Python
+    - [x] 2.1 Coevering Your A** With Assertions
+    - [x] 2.2 Complacent Comma Placement
+    - [x] 2.3 Context Managers and the with Statement
+    - [ ] 2.4 Underscores, Dunders, and More
+    - [ ] 2.5 A Shocking Truth About String Formatting
+    - [ ] 2.6 The Zen of Python Easter Egg
+- Ch3. Effective Functions
+    - [x] 3.1 Python's Functions Are First-Class
+    - [x] 3.2 Lambdas Are Single-Expression Functions
+    - [x] 3.3 The Power of Decorators
+    - [x] 3.4 Fun With `*args` and `**kwargs`
+    - [x] 3.5 Function Argument Unpacking
+    - [x] 3.6 Nothing to Return Here
+- Ch4. Classes & OOP
+    - [ ] 4.1 Object Comparisons: is vs ==
+    - [ ] 4.2 String Conversion (Every Class Needs a __repr__)
+    - [ ] 4.3 Defining Your Own Exception Classes
+    - [ ] 4.4 Cloning Objects for Fun and Profit
+    - [ ] 4.5 Abstract Base Classes Keep Inheritance in Check
+    - [ ] 4.6 What Namedtuples Are Good For
+    - [ ] 4.7 Class vs Instance Variable Pitfalls
+    - [ ] 4.8 Instance, Class, and Static Methods Demystified
+- Ch5. Common Data Structures in Python
+    - [ ] 5.1 Dictionaries, Maps, and Hashtables
+    - [ ] 5.2 Array Data Structures
+    - [ ] 5.3 Records, Structs, and Data Transfer Objects
+    - [ ] 5.4 Set and Multisets
+    - [ ] 5.5 Stacks (LIFOs)
+    - [ ] 5.6 Queues (FIFOs)
+    - [ ] 5.7 Priority Queues
+- Ch6. Looping & Iteration
+    - [ ] 6.1 Writing Pythonic Loops
+    - [ ] 6.2 Comprehending Comprehensions
+    - [ ] 6.3 List Slicing Tricks and the Sushi Operator
+    - [ ] 6.4 Beautiful Iterators
+    - [ ] 6.5 Generators Are Simplified Iterators
+    - [ ] 6.6 Generator Expressions
+    - [ ] 6.7 Iterator Chains
+- Ch7. Dictionary Tricks
+    - [ ] 7.1 Dictionary Default Values
+    - [ ] 7.2 Sorting Dictionaries for Fun and Profit
+    - [ ] 7.3 Emulating Switch/Case Statements With Dicts
+    - [ ] 7.4 The Craziest Dict Expression in the West
+    - [ ] 7.5 So Many Ways to Merge Dictionaries
+    - [ ] 7.6 Dictionary Pretty-Printing
+- Ch8. Pythonic Productivity Techniques
+    - [ ] 8.1 Exploring Python Modules and Objects
+    - [ ] 8.2 Isolating Project Dependencies With Virtualenv
+    - [ ] 8.3 Peeking Behind the Bytecode Curtain
+- Ch9. Closing Thoughts
+    - [ ] 9.1 Free Weekly Tips for Python Developers
+    - [ ] 9.2 PythonistaCafe: A Community for Python Developers
 
