@@ -18,7 +18,7 @@
     - [x] 3.6 Nothing to Return Here
 - Ch4. Classes & OOP
     - [x] 4.1 Object Comparisons: is vs ==
-    - [ ] 4.2 String Conversion (Every Class Needs a __repr__)
+    - [x] 4.2 String Conversion (Every Class Needs a __repr__)
     - [ ] 4.3 Defining Your Own Exception Classes
     - [ ] 4.4 Cloning Objects for Fun and Profit
     - [ ] 4.5 Abstract Base Classes Keep Inheritance in Check
