@@ -29,7 +29,7 @@
     - [x] 5.1 Dictionaries, Maps, and Hashtables
     - [x] 5.2 Array Data Structures
     - [x] 5.3 Records, Structs, and Data Transfer Objects
-    - [ ] 5.4 Set and Multisets
+    - [x] 5.4 Set and Multisets
     - [ ] 5.5 Stacks (LIFOs)
     - [ ] 5.6 Queues (FIFOs)
     - [ ] 5.7 Priority Queues
