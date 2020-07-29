@@ -30,7 +30,7 @@
     - [x] 5.2 Array Data Structures
     - [x] 5.3 Records, Structs, and Data Transfer Objects
     - [x] 5.4 Set and Multisets
-    - [ ] 5.5 Stacks (LIFOs)
+    - [x] 5.5 Stacks (LIFOs)
     - [ ] 5.6 Queues (FIFOs)
     - [ ] 5.7 Priority Queues
 - Ch6. Looping & Iteration
