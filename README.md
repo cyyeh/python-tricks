@@ -25,14 +25,14 @@
     - [ ] 4.6 What Namedtuples Are Good For
     - [ ] 4.7 Class vs Instance Variable Pitfalls
     - [ ] 4.8 Instance, Class, and Static Methods Demystified
-- [ ] Ch5. Common Data Structures in Python
+- [x] Ch5. Common Data Structures in Python
     - [x] 5.1 Dictionaries, Maps, and Hashtables
     - [x] 5.2 Array Data Structures
     - [x] 5.3 Records, Structs, and Data Transfer Objects
     - [x] 5.4 Set and Multisets
     - [x] 5.5 Stacks (LIFOs)
     - [x] 5.6 Queues (FIFOs)
-    - [ ] 5.7 Priority Queues
+    - [x] 5.7 Priority Queues
 - [ ] Ch6. Looping & Iteration
     - [ ] 6.1 Writing Pythonic Loops
     - [ ] 6.2 Comprehending Comprehensions
