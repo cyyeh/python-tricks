@@ -31,7 +31,7 @@
     - [x] 5.3 Records, Structs, and Data Transfer Objects
     - [x] 5.4 Set and Multisets
     - [x] 5.5 Stacks (LIFOs)
-    - [ ] 5.6 Queues (FIFOs)
+    - [x] 5.6 Queues (FIFOs)
     - [ ] 5.7 Priority Queues
 - Ch6. Looping & Iteration
     - [ ] 6.1 Writing Pythonic Loops
