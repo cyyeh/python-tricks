@@ -36,7 +36,7 @@
 - [ ] Ch6. Looping & Iteration
     - [x] 6.1 Writing Pythonic Loops
     - [x] 6.2 Comprehending Comprehensions
-    - [ ] 6.3 List Slicing Tricks and the Sushi Operator
+    - [x] 6.3 List Slicing Tricks and the Sushi Operator
     - [ ] 6.4 Beautiful Iterators
     - [ ] 6.5 Generators Are Simplified Iterators
     - [ ] 6.6 Generator Expressions
