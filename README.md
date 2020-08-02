@@ -33,14 +33,14 @@
     - [x] 5.5 Stacks (LIFOs)
     - [x] 5.6 Queues (FIFOs)
     - [x] 5.7 Priority Queues
-- [ ] Ch6. Looping & Iteration
+- [x] Ch6. Looping & Iteration
     - [x] 6.1 Writing Pythonic Loops
     - [x] 6.2 Comprehending Comprehensions
     - [x] 6.3 List Slicing Tricks and the Sushi Operator
     - [x] 6.4 Beautiful Iterators
     - [x] 6.5 Generators Are Simplified Iterators
     - [x] 6.6 Generator Expressions
-    - [ ] 6.7 Iterator Chains
+    - [x] 6.7 Iterator Chains
 - [ ] Ch7. Dictionary Tricks
     - [ ] 7.1 Dictionary Default Values
     - [ ] 7.2 Sorting Dictionaries for Fun and Profit
