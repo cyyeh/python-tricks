@@ -45,7 +45,7 @@
     - [x] 7.1 Dictionary Default Values
     - [x] 7.2 Sorting Dictionaries for Fun and Profit
     - [x] 7.3 Emulating Switch/Case Statements With Dicts
-    - [ ] 7.4 The Craziest Dict Expression in the West
+    - [x] 7.4 The Craziest Dict Expression in the West
     - [ ] 7.5 So Many Ways to Merge Dictionaries
     - [ ] 7.6 Dictionary Pretty-Printing
 - [ ] Ch8. Pythonic Productivity Techniques
