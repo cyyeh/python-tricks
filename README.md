@@ -42,7 +42,7 @@
     - [x] 6.6 Generator Expressions
     - [x] 6.7 Iterator Chains
 - [ ] Ch7. Dictionary Tricks
-    - [ ] 7.1 Dictionary Default Values
+    - [x] 7.1 Dictionary Default Values
     - [ ] 7.2 Sorting Dictionaries for Fun and Profit
     - [ ] 7.3 Emulating Switch/Case Statements With Dicts
     - [ ] 7.4 The Craziest Dict Expression in the West
