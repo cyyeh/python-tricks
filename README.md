@@ -48,10 +48,10 @@
     - [x] 7.4 The Craziest Dict Expression in the West
     - [x] 7.5 So Many Ways to Merge Dictionaries
     - [x] 7.6 Dictionary Pretty-Printing
-- [ ] Ch8. Pythonic Productivity Techniques
+- [x] Ch8. Pythonic Productivity Techniques
     - [x] 8.1 Exploring Python Modules and Objects
     - [x] 8.2 Isolating Project Dependencies With Virtualenv
-    - [ ] 8.3 Peeking Behind the Bytecode Curtain
+    - [x] 8.3 Peeking Behind the Bytecode Curtain
 - [ ] Ch9. Closing Thoughts
     - [ ] 9.1 Free Weekly Tips for Python Developers
     - [ ] 9.2 PythonistaCafe: A Community for Python Developers
