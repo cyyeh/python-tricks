@@ -50,7 +50,7 @@
     - [x] 7.6 Dictionary Pretty-Printing
 - [ ] Ch8. Pythonic Productivity Techniques
     - [x] 8.1 Exploring Python Modules and Objects
-    - [ ] 8.2 Isolating Project Dependencies With Virtualenv
+    - [x] 8.2 Isolating Project Dependencies With Virtualenv
     - [ ] 8.3 Peeking Behind the Bytecode Curtain
 - [ ] Ch9. Closing Thoughts
     - [ ] 9.1 Free Weekly Tips for Python Developers
