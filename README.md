@@ -41,13 +41,13 @@
     - [x] 6.5 Generators Are Simplified Iterators
     - [x] 6.6 Generator Expressions
     - [x] 6.7 Iterator Chains
-- [ ] Ch7. Dictionary Tricks
+- [x] Ch7. Dictionary Tricks
     - [x] 7.1 Dictionary Default Values
     - [x] 7.2 Sorting Dictionaries for Fun and Profit
     - [x] 7.3 Emulating Switch/Case Statements With Dicts
     - [x] 7.4 The Craziest Dict Expression in the West
     - [x] 7.5 So Many Ways to Merge Dictionaries
-    - [ ] 7.6 Dictionary Pretty-Printing
+    - [x] 7.6 Dictionary Pretty-Printing
 - [ ] Ch8. Pythonic Productivity Techniques
     - [ ] 8.1 Exploring Python Modules and Objects
     - [ ] 8.2 Isolating Project Dependencies With Virtualenv
